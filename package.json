@@ -1,0 +1,16 @@
+{
+  "name": "sowonner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "itsMohi",
+  "license": "ISC",
+  "dependencies": {
+    "cross-spawn": "^7.0.3"
+  }
+}
